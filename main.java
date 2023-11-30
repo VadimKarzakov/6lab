@@ -1,12 +1,11 @@
 class Main{
     public static void main(String[] args) {
 
-        for (int g=5;g<15;g++){
-            int a=100;
-            int d = a/5;
 
-            System.out.print(d);
-        }
+            double s =1213234;
+            double sr=s/3;
+            System.out.print(sr);
+
 
     }
 }
