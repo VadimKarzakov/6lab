@@ -1,9 +1,12 @@
 class Main{
     public static void main(String[] args) {
-        int i=0;
-        if (i<10){
-            i=i+1;
+
+        for (int g=5;g<15;g++){
+            int a=100;
+            int d = a/5;
+
+            System.out.print(d);
         }
-        System.out.print("Это добавлено в ветке dev");
+
     }
 }
